@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<modlist>
+  <mod name="optifile" logo="https://optifine.net/images/of16r.png">
+    <ver version="1.18.1">http://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar</ver>
+    <ver version="1.18">http://optifine.net/adloadx?f=OptiFine_1.18_HD_U_H3.jar</ver>
+    <ver version="1.17.1">http://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar</ver>
+    <ver version="1.16.5">http://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar</ver>
+    <ver version="1.16.4">http://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G7.jar</ver>
+    <ver version="1.16.3">http://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G5.jar</ver>
+    <ver version="1.16.2">http://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G5.jar</ver>
+    <ver version="1.16.1">http://optifine.net/adloadx?f=OptiFine_1.16.1_HD_U_G2.jar</ver>
+    <ver version="1.15.2">http://optifine.net/adloadx?f=OptiFine_1.15.2_HD_U_G6.jar</ver>
+    <ver version="1.14.4">http://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_G5.jar</ver>
+    <ver version="1.14.3">http://optifine.net/adloadx?f=OptiFine_1.14.3_HD_U_F2.jar</ver>
+    <ver version="1.14.2">http://optifine.net/adloadx?f=OptiFine_1.14.2_HD_U_F1.jar</ver>
+    <ver version="1.13.2">http://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_G5.jar</ver>
+    <ver version="1.13.1">http://optifine.net/adloadx?f=OptiFine_1.13.1_HD_U_E4.jar</ver>
+    <ver version="1.13">http://optifine.net/adloadx?f=OptiFine_1.13_HD_U_E4.jar</ver>
+    <ver version="1.12.2">http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar</ver>
+    <ver version="1.12.1">http://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_G5.jar</ver>
+    <ver version="1.12">http://optifine.net/adloadx?f=OptiFine_1.12_HD_U_G5.jar</ver>
+    <ver version="1.11.2">http://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_G5.jar</ver>
+    <ver version="1.11">http://optifine.net/adloadx?f=OptiFine_1.11_HD_U_G5.jar</ver>
+    <ver version="1.10.2">http://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_I5.jar</ver>
+    <ver version="1.10">http://optifine.net/adloadx?f=OptiFine_1.10_HD_U_I5.jar</ver>
+    <ver version="1.9.4">http://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_I5.jar</ver>
+    <ver version="1.9.2">http://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_E3.jar</ver>
+    <ver version="1.9.0">http://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_I5.jar</ver>
+    <ver version="1.8.9">http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar</ver>
+    <ver version="1.8.8">http://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I7.jar</ver>
+    <ver version="1.8.0">http://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I7.jar</ver>
+    <ver version="1.7.10">http://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar</ver>
+  </mod>
+</modlist>
